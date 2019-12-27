@@ -1,4 +1,4 @@
-
+<?php
 require_once "simple_html_dom.php";
 $html1 =  file_get_html("https://stats.pkgh.ru/?group=ИП-16-3&lastname=Осейкин&period=week");
 
